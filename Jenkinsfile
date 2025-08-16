@@ -7,5 +7,3 @@ buildAndDeploy(
     imageRepo: 'my-portfolio',
     githubRepo: 'gammala14/Final-Project'
 )
-~                                                                                                                                                               
-~                                              
