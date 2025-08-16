@@ -4,6 +4,6 @@ buildAndDeploy(
     gitUrl:'https://github.com/gammala14/Final-Project.git',
     gitBranch: 'main',
     dockerhubUser: 'gammala',
-    imageRepo: 'Final-Project',
+    imageRepo: 'final-project',
     githubRepo: 'gammala14/Final-Project'
 )
