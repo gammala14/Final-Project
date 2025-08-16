@@ -7,7 +7,7 @@ spec:
   template:
     spec:
       containers:
-      - name: my-portfolio
-        image: gammala/my-portfolio:latest 
+      - name: Final-Project
+        image: gammala/Final-Project:latest 
         ports:
         - containerPort: 80
